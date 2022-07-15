@@ -1,0 +1,1 @@
+alert("¡No todos los acontecimientos están listos!");
